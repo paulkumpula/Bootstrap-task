@@ -45,3 +45,8 @@ h1{
 .nav-link.active{
     color: blue;
 }
+
+.row.g-3{
+    width: 500px;
+    margin: 10px;
+}
